@@ -34,3 +34,9 @@ MIT
 ## 🙏 Credits:
 - Author: Myok
 - Special thanks to the OpenAI community for guidance and inspiration.
+
+- ## Screenshots
+
+- ![image](https://github.com/My0k/WooGPT-Prompter/assets/24868099/13f0c30a-f528-42eb-b77a-fdc2e3e7a784)
+![image](https://github.com/My0k/WooGPT-Prompter/assets/24868099/c57ce886-de21-4cc3-8e75-ca14b2dca8f9)
+
